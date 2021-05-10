@@ -16,7 +16,7 @@
   "scripts": {},
   "dependencies": {
     "command-line-args": "^5.1.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "pegjs": "^0.10.0"
   },
   "devDependencies": {}
